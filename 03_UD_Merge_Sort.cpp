@@ -4,6 +4,8 @@
 #include <cstdlib>
 using namespace std;
 
+/* author: rajkumar verma */
+
 long int SwapCount = 0;
 long int iterations = 0;
 // Merges two subarrays of array[].
