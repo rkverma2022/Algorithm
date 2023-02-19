@@ -1,5 +1,9 @@
 # Algorithm
-Author of all the related programm ::  Rajkumar Verma
-All of you are invited to contribute
+Authors:
+1. R Veda Shree
+2. Ashlesha Gautam
+3. Rajkumar Verma
+
+
 
 Thanks !
